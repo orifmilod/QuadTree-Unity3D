@@ -1,4 +1,3 @@
 # QuadTree-Unity3D
 Distributing objects position in a QuadTree data structure and drawing lines on the scene.
-<h1>More explanation coming soon</h1>
-
+<h3>Video link: https://www.youtube.com/watch?v=isiiHkRfVJA&</h3>
